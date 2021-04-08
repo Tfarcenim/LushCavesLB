@@ -1,12 +1,12 @@
 {
   "required": true,
-  "package": "com.example.examplemod.mixin",
+  "package": "tfar.lushcaveslb.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "lushcaveslb.refmap.json",
   "mixins": [
   ],
   "client":[
-    "ExampleMixin"
+    "GameRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
